@@ -1,0 +1,33 @@
+🚀 Portfolio Bot Projesi
+
+Bu proje, kullanıcıların projelerini, becerilerini ve proje durumlarını yönetebileceği bir veritabanı sistemidir.
+
+📌 Özellikler
+
+- Proje ekleme
+- Proje güncelleme
+- Proje silme
+- Skill (beceri) ekleme ve ilişkilendirme
+- Proje durumu yönetimi
+- Screenshot (ekran görüntüsü) ekleme
+
+🛠 Kullanılan Teknolojiler
+
+- Python
+- SQLite3
+
+📂 Veritabanı Yapısı
+
+- projects
+- skills
+- project_skills
+- status
+
+🔗 GitHub
+
+Proje bağlantısı:
+https://github.com/ZilanMermer/portfolio-bot
+
+👨‍💻 Geliştirici
+
+Bu proje eğitim amaçlı geliştirilmiştir.
